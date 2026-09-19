@@ -1,20 +1,23 @@
 # Overview
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
+this a program to test python, tkinter, and git intergrated properly and produce a hello world window.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+visual studio code
+extensions 
+python
+pylance
+prettier
 
-{Describe the programming language that you used}
+python
+tkinter
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* https://code.visualstudio.com/download?_exp_download=d53503e735
+* https://www.python.org/downloads/
+* https://docs.python.org/3/library/tk.html
